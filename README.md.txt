@@ -1,0 +1,1 @@
+This is a project aimed at demonstrating how to build a convolutional neural network to classify images. I have used fluorescent cell images to show a POC. There are two implementations, to build a CNN from scratch and to use transfer learning on a pretrained model. 
